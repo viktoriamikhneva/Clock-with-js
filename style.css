@@ -1,0 +1,24 @@
+.hour,
+.min,
+.sec {
+    color: hsl(295, 100%, 50%);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+  }
+
+ div {
+     padding: 5px 30px;
+     margin: 0 auto;
+     width: 200px;
+     height: 30px;
+     border: 2px solid black;
+     display: flex;
+     justify-content: space-between;
+     border-radius: 5px;
+ }
+
+ input {
+     border-radius: 5px;
+     background-color: rgb(238, 197, 245);
+ }
